@@ -2,6 +2,6 @@ Simon Stamp Collecton App
 ----
 sample
 
-#about
+#about Simon
 
 stuff about Simon
