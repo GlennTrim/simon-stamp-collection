@@ -2,6 +2,6 @@ Simon Stamp Collecton App
 ----
 sample
 
-#about
+#about simons samps
 
-stuff about Simon# simon-stamp-collection
+Simone has been collecting stamps for a long time
