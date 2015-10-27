@@ -4,4 +4,4 @@ sample
 
 #about
 
-stuff about Simon# simon-stamp-collection
+New York Times raves "this is the best collection of the ages"
